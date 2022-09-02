@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     { 
       "id": 1, 
       "location": "Berlim - Alemanha",
@@ -79,5 +78,4 @@
       "username": "@devstrangers",
       "date": "10/07/2022"
   }
-  ]
-}
+]
